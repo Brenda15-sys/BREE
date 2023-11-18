@@ -1,0 +1,32 @@
+.about-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-container h3 {
+    color: #333;
+  }
+  
+  .about-container h4 {
+    color: #555;
+  }
+  
+  .about-container p {
+    color: #777;
+    line-height: 1.5;
+  }
+  
+  .about-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  h3 {
+    color:aqua;
+  }
