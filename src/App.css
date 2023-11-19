@@ -130,21 +130,21 @@ header {
   padding: 20px;
   display: flex;
   justify-content: space-between;
-  align-items: center; /* Align items vertically at the center */
+  align-items: center; 
 }
 
 .logo-container {
-  max-width: 100px; /* Adjust the max-width as needed */
+  max-width: 100px; 
 }
 
 .logo {
-  width: 100%; /* Make the logo fill its container */
-  height: auto; /* Maintain the aspect ratio */
+  width: 100%; 
+  height: auto; 
 }
 
 nav {
   display: flex;
-  align-items: center; /* Align items vertically at the center */
+  align-items: center; 
 }
 
 nav a {
@@ -184,7 +184,11 @@ p {
 
 
 
+
+
 /*****************************************/
+/*Blog*/
+
 .blog-container {
   max-width: 800px;
   margin: 0 auto;
@@ -225,7 +229,7 @@ p {
 
 
 /***********************************************/
-
+/*Contact*/
 
 h2 {
   font-size: x-large;

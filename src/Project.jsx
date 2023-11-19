@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import TodoCard from "./ToDoCard";
 import "./Project.css";
 
 
@@ -29,10 +28,13 @@ function Project() {
 
   return (
     <div className="project-wrapper">
-        <ToDoCard>
+
     <div className="app-container background-image">
       <h1> My To-dos List</h1>
  
+      <div class="flex-container">
+
+
       <h3><i>
         &#x1F50D; To-Do List
         </i>
@@ -61,10 +63,10 @@ function Project() {
           </li>
         ))}
       </ul>
-      
+    </div>  
     
     </div>
-     </ToDoCard> 
+     
     </div>
   );
   
