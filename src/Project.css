@@ -1,141 +1,4 @@
-/*body {
-    background-color: #2962ff; 
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-  }
-  
-  
-  .app-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 20px;
-    
-  }
-  
-  /* Header styling 
-  .app-title {
-    color: #333;
-    font-size: 28px;
-    margin-bottom: 20px; 
-  }
-  
-  /* Input container 
-  .input-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px; 
-  }
-  
-  input[type="text"] {
-    padding: 10px;
-    border: 2px solid #ccc;
-    border-radius: 5px;
-    font-size: 16px;
-    flex: 1;
-    margin-right: 10px;
-  }
-  
-  button {
-    padding: 10px 20px;
-    margin: 10px;
-    margin-left: 10px;
-    background-color: #0074d9;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    transition: background-color 0.3s ease;
-    flex: 1;
-  }
-  
-  button:hover {
-    background-color: #0056a9;
-  }
-  
-  
-  
-  /* Styling for the list items 
-  .item-list {
-    list-style: none;
-    padding: 0;
-  }
-  
-  
-  li {
-    background-color: #fff; 
-    padding: 10px; 
-    margin: 10px 0;
-    cursor: pointer;
-    font-size: 18px;
-  }
-  
-  
-  
-  /* Styling for completed items 
-  .completed {
-    text-decoration: line-through;
-    color: #888;
-  }
-  
-  /* Styling for the Clear List button 
-  #clear-list {
-    background-color: #ff4136;
-  }
-  
-  
-  h1 {
-    color: #333;
-    margin: 20px 0;
-    margin-right: 20px;
-  }
-  
-  h3 {
-    margin: 20px 0;
-    margin-right: 20px;
-  }
-  
-  @media (max-width: 768px)  and (max-width: 996px)  {
-    input[type="text"] {
-      margin-top: 10px;
-    }
-  
-    button {
-      margin-left: 0;
-      margin-top: 10px;
-    }
-  
-  
-  
-    h1 {
-      font-size: 28px;
-    }
-  
-    div {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      flex-wrap: wrap; 
-    } 
-  }
-  
-  
-  .background-image {
-    background-image: url('To-Do List.png'); 
-    background-size: cover; 
-    background-repeat: no-repeat; 
-    background-position: center; 
-    backdrop-filter: blur(5px)
-  }*/
-  
-  
-  .project-wrapper {
+.project-wrapper {
     background-color: #f0f0f0;
     padding: 20px;
     margin: 20px;
@@ -153,14 +16,14 @@
   }
   
   
-  /* Header styling */
+  
   .app-title {
     color: #333;
     font-size: 28px;
     margin-bottom: 20px;
   }
   
-  /* Input container */
+  
   .input-container {
     display: flex;
     align-items: center;
@@ -194,7 +57,7 @@
     background-color: #0056a9;
   }
   
-  /* Styling for the list items */
+  
   .item-list {
     list-style: none;
     padding: 0;
@@ -208,13 +71,13 @@
     font-size: 18px;
   }
   
-  /* Styling for completed items */
+  
   .completed {
     text-decoration: line-through;
     color: #888;
   }
   
-  /* Styling for the Clear List button */
+  
   #clear-list {
     background-color: #ff4136;
   }
